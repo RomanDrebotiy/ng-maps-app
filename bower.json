@@ -1,0 +1,9 @@
+{
+  "name": "ng-maps-app-32",
+  "private": "true",
+  "dependencies": {
+    "angular": "1.x",
+    "ui-leaflet": "2.0.x",
+    "angular-ui-router": "1.0.x"
+  }
+}
